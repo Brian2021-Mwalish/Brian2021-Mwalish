@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 👋 Hi, I'm Brian Mwalish
-## 👀 I'm interested in Natural Language Processing, Machine Learning, Web Development, Android Development, and Data Science
+## 👀 I'm interested in UX/UI Design,and  Machine Learning,  
 
 I'm currently working on a Kiswahili to Kikuyu language translation project using transformer-based models and developing an AI-enabled web IDE.
 
@@ -24,9 +24,9 @@ I'm currently working on a Kiswahili to Kikuyu language translation project usin
 - **Data Science**: Data Analysis, Visualization, Statistical Modeling
 
 ## 📫 How to reach me
-- **Email**: vincentbettoh@gmail.com
-- **LinkedIn**: [Vincent Kipkurui](https://www.linkedin.com/in/vincent-kipkurui-07baa2267)
-- **Twitter**: [@VincentKipkurui](https://twitter.com/VincentKipkurui)
+- **Email**: brianmwalish@gmail.com
+
+- 
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
