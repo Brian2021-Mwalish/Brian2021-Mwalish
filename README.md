@@ -5,7 +5,7 @@
 
 I'm currently working on a Kiswahili to Kikuyu language translation project using transformer-based models and developing an AI-enabled web IDE.
 
-![Vincent's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brian2021-Mwalish&show_icons=true&theme=radical)
+![Mwalish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brian2021-Mwalish&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brian2021-Mwalish&layout=compact&theme=tokyonight)](https://github.com/Brian2021-Mwalish/github-readme-stats) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brian2021-Mwalish&theme=tokyonight)](https://git.io/streak-stats) 
 ![](https://komarev.com/ghpvc/?username=Brian2021-Mwalish&color=green&style=flat-square&label=PROFILE+VIEWS)
