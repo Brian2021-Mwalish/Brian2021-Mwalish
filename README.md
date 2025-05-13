@@ -5,10 +5,10 @@
 
 I'm currently working on a Kiswahili to Kikuyu language translation project using transformer-based models and developing an AI-enabled web IDE.
 
-![Vincent's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OnpointSoftwares&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OnpointSoftwares&layout=compact&theme=tokyonight)](https://github.com/OnpointSoftwares/github-readme-stats) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OnpointSoftwares&theme=tokyonight)](https://git.io/streak-stats) 
-![](https://komarev.com/ghpvc/?username=OnpointSoftwares&color=green&style=flat-square&label=PROFILE+VIEWS)
+![Vincent's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brian2021-Mwalish&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brian2021-Mwalish&layout=compact&theme=tokyonight)](https://github.com/Brian2021-Mwalish/github-readme-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brian2021-Mwalish&theme=tokyonight)](https://git.io/streak-stats) 
+![](https://komarev.com/ghpvc/?username=Brian2021-Mwalish&color=green&style=flat-square&label=PROFILE+VIEWS)
 
 ## 🔭 Current Projects
 - **AI-Enabled Web IDE**: Developing an intelligent web-based integrated development environment with AI-powered code assistance, auto-completion, and smart debugging features
@@ -34,17 +34,17 @@ I'm currently working on a Kiswahili to Kikuyu language translation project usin
 <div style="display: flex;">
   <div style="flex: 50%; padding: 10px;">
     <h2>📊 My GitHub Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=OnpointSoftwares&show_icons=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Brian2021-Mwalish&show_icons=true" alt="GitHub Stats" />
   </div>
 
   <div style="flex: 50%; padding: 10px;">
     <h2>📈 Most Used Languages</h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnpointSoftwares&theme=blue-green" alt="Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brian2021-Mwalish&theme=blue-green" alt="Most Used Languages" />
   </div>
 </div>
 
 ## 👁️ Profile Views
-![Profile View Counter](https://komarev.com/ghpvc/?username=OnpointSoftwares)
+![Profile View Counter](https://komarev.com/ghpvc/?username=Brian2021-Mwalish)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -64,4 +64,4 @@ I'm currently working on a Kiswahili to Kikuyu language translation project usin
 </p>
 
 ## 📊 GitHub Activity
-[![Brian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OnpointSoftwares&theme=react-dark)](https://github.com/OnpointSoftwares/OnpointSoftwares)
+[![Brian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brian2021-Mwalish&theme=react-dark)](https://github.com/Brian2021-Mwalish/Brian2021-Mwalish)
