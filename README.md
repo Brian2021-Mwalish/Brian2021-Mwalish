@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 👋 Hi, I'm Brian Mwalish
-## 👀 I'm  a full stack developer but mostly innterested with UI/UX
+## 👀 "I'm a full-stack developer with a strong passion for creating intuitive and visually appealing user interfaces. While I handle both front and back end, I'm especially drawn to UI/UX design."
 
 I'm currently working on a project for reservation and optimization of restaurant activities
 
