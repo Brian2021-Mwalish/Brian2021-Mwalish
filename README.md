@@ -1,30 +1,20 @@
 ### Hi there 👋
 
 # 👋 Hi, I'm Brian Mwalish
-## 👀 I'm interested in UX/UI Design,and  Machine Learning,  
+## 👀 I'm  a full stack developer but mostly innterested with UI/UX
 
-I'm currently working on a Kiswahili to Kikuyu language translation project using transformer-based models and developing an AI-enabled web IDE.
+I'm currently working on a project for reservation and optimization of restaurant activities
 
 ![Mwalish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brian2021-Mwalish&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brian2021-Mwalish&layout=compact&theme=tokyonight)](https://github.com/Brian2021-Mwalish/github-readme-stats) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brian2021-Mwalish&theme=tokyonight)](https://git.io/streak-stats) 
 ![](https://komarev.com/ghpvc/?username=Brian2021-Mwalish&color=green&style=flat-square&label=PROFILE+VIEWS)
 
-## 🔭 Current Projects
-- **AI-Enabled Web IDE**: Developing an intelligent web-based integrated development environment with AI-powered code assistance, auto-completion, and smart debugging features
-- **Kiswahili to Kikuyu Translation**: Building a machine translation system using PyTorch and Transformers
-- **NLP Research**: Exploring low-resource language translation techniques
-- **Web & Mobile Applications**: Developing solutions with modern frameworks
 
-## 🌱 Skills
-- **Languages**: Python, JavaScript, Java, C/C++, PHP, HTML/CSS
-- **Frameworks**: PyTorch, Transformers, Django, Flask, React
-- **Tools**: Git, Docker, Jupyter, VS Code
-- **ML/AI**: Natural Language Processing, Machine Translation, Neural Networks
-- **Data Science**: Data Analysis, Visualization, Statistical Modeling
 
 ## 📫 How to reach me
 - **Email**: brianmwalish@gmail.com
+  ** Email**: mwalish2021@gmail.com
 
 - 
 
