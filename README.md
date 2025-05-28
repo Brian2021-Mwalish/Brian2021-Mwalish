@@ -16,6 +16,8 @@ I'm currently working on a project for reservation and optimization of restauran
 - **Email**: brianmwalish@gmail.com
   ** Email**: mwalish2021@gmail.com
 
+  linkedin.com/in/brian-mwalish-7a746a306
+
 - 
 
 ## 😂 Here is a random joke that'll make you laugh!
