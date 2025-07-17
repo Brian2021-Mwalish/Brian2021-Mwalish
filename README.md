@@ -2,7 +2,7 @@
 
 <p align="center">
   <i>Full-stack Developer | Python Enthusiast | AI & UI/UX Lover | Problem Solver</i><br>
-  <img src="https://komarev.com/ghpvc/?username=Brian2021-Mwalish&color=green&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQHDa-ZWyfm3Gw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1714048821481?e=1758153600&v=beta&t=jdYTsQo6tDI63BL-vc9ZCGRK_ve_SBKTLY1mIH0dVf4" alt="Profile views"/>
 </p>
 
 ---
