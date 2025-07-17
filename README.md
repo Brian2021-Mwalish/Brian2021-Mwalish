@@ -1,18 +1,18 @@
 <h1 align="center">👋 Hi there, I'm Brian Mwalish</h1>
 
 <p align="center">
-  <i>Full-stack developer | Python Enthusiast | UI/UX Fan | Problem Solver</i><br>
-  <img src="https://komarev.com/ghpvc/?username=Brian2021-Mwalish&color=green&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
+  <i>Full-stack Developer | Python Enthusiast | AI & UI/UX Lover | Problem Solver</i><br>
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQHDa-ZWyfm3Gw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1714048821481?e=1758153600&v=beta&t=jdYTsQo6tDI63BL-vc9ZCGRK_ve_SBKTLY1mIH0dVf4" alt="Profile views"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 I’m a **full-stack developer** with a strong passion for building intuitive, scalable, and visually appealing web & AI applications.  
-⚡ I specialize in **Python** and its rich ecosystem—especially **Django**, **Flask**, **FastAPI**, **TensorFlow**, and **PyTorch**.  
-🌍 I love creating projects that solve real-world problems with efficient code and user-centered design.  
-🎯 Currently focused on: **Restaurant Tech, AI Applications**, and modern frontends.
+🎓 I'm a **full-stack developer** with deep expertise in building scalable web, AI, and automation apps.  
+🐍 I specialize in **Python**—from RESTful backends using Django/FastAPI to deep learning with TensorFlow/PyTorch.  
+🎯 I build clean UIs, fast APIs, and efficient solutions for real-world problems.  
+🧠 Currently focused on **restaurant tech**, **AI tools**, and full-stack SaaS development.
 
 ---
 
@@ -38,19 +38,19 @@
 
 ## 🎯 2025 Goals
 
-✅ Build 5+ full-stack SaaS projects  
-✅ Contribute to open-source monthly  
-✅ Publish technical articles and tutorials  
-✅ Learn DevOps and CI/CD in depth  
-✅ Teach and mentor junior developers
+✅ Launch 5+ full-stack SaaS products  
+✅ Write and publish dev tutorials/blogs  
+✅ Master DevOps (CI/CD, Docker, Kubernetes)  
+✅ Build open-source tools  
+✅ Mentor junior developers consistently  
 
 ---
 
-## 🧩 Currently Working On
+## 🔧 Currently Building
 
-💼 A **restaurant reservation and optimization platform** built with Django REST, PostgreSQL, and React  
-🤖 An **AI image classifier** for real-time object detection  
-📱 Rebuilding my portfolio with modern animations and accessibility in mind
+💼 **SmartTable** – Restaurant reservation optimizer (Django + React)  
+📸 **AI Classifier** – Real-time image classification app (TensorFlow + Streamlit)  
+🌐 Rebuilding my **personal portfolio** with animations, accessibility, and mobile-first design  
 
 ---
 
@@ -58,22 +58,43 @@
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| **SmartTable** | Django, React, PostgreSQL | Intelligent restaurant seating and reservation manager |
-| **AI Classifier** | TensorFlow, Streamlit | Deep learning tool to classify images in real-time |
-| **Portfolio Website** | HTML, CSS, JS | Personal brand site with resume, blog, and contact |
-| **Book Buddy** | Flask, SQLite | Book recommendation and management system |
-| **DevJournal** | Django, CKEditor | Blogging platform for developers to track progress |
+| **SmartTable** | Django, React, PostgreSQL | Manages reservations and seating intelligently for restaurants |
+| **AI Classifier** | TensorFlow, Streamlit | Deep learning image classification in real time |
+| **Book Buddy** | Flask, SQLite | A smart book management and recommendation tool |
+| **DevJournal** | Django, CKEditor | Developer-friendly blog with markdown & editor features |
+| **Portfolio Website** | HTML, CSS, JS | Custom-designed responsive dev portfolio |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brian2021-Mwalish&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Brian2021-Mwalish&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brian2021-Mwalish&layout=compact&theme=tokyonight&langs_count=10"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brian2021-Mwalish&layout=compact&theme=tokyonight&langs_count=10&hide=html,css" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brian2021-Mwalish&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brian2021-Mwalish&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🧰 Languages & Tools
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
 </p>
 
 ---
@@ -86,58 +107,39 @@
 
 ---
 
-## 🧰 Languages & Tools
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
-</p>
-
----
-
 ## 🧠 What I'm Learning
 
-- 🔐 Advanced authentication (JWT, OAuth2)
-- 🐳 Docker Swarm & Kubernetes
-- ☁️ AWS (EC2, S3, RDS)
-- 📲 Flutter for mobile apps
-- 💬 NLP using spaCy & HuggingFace
+- 🔐 JWT, OAuth2 for secure APIs  
+- 🐳 Docker Swarm, Kubernetes  
+- ☁️ AWS (EC2, RDS, S3, Lambda)  
+- 📲 Flutter & Firebase for mobile apps  
+- 💬 NLP with spaCy, HuggingFace Transformers  
 
 ---
 
 ## 🌍 Community Contributions
 
-- 🧑‍🏫 Mentor @ DjangoGirls Lusaka
-- 🧪 Open-source contributor on Django/React projects
-- ✍️ Writer on Medium & Dev.to (soon)
-- 💬 StackOverflow helper & Discord community member
+- 🧑‍🏫 Mentor @ DjangoGirls Lusaka  
+- 🧪 Open-source contributor in Django + React space  
+- ✍️ Soon publishing dev blogs on Medium and Dev.to  
+- 🧵 Active in Stack Overflow & Discord communities  
 
 ---
 
-## ✍️ Blogs & Articles
+## ✍️ Upcoming Articles
 
-- [Coming Soon!] Building Scalable APIs with FastAPI  
-- [Coming Soon!] React vs Django Templates: What to Choose and When  
-- [Coming Soon!] How I Designed a Clean Portfolio from Scratch  
+- 🚀 Building Scalable APIs with FastAPI  
+- 🔍 React vs Django Templates: What to Use When  
+- 🧱 How I Built My Portfolio with Tailwind + Animation  
 
 ---
 
-## 🧩 Fun Facts About Me
+## 🎉 Fun Facts About Me
 
-- 🧩 Love solving puzzles, brain teasers, and logic problems  
-- 📚 Bookworm when not coding  
-- 🎮 Fan of story-driven games and indie game dev  
-- 🎵 Coding to Lo-Fi and Synthwave
+- 🧩 Love puzzles and logic games  
+- 📚 Avid reader and audiobook addict  
+- 🎮 Indie game fan and casual pixel artist  
+- 🎵 I code best with Lo-Fi and Synthwave  
 
 ---
 
@@ -148,24 +150,20 @@
 
 ---
 
-## 🤝 Let’s Collaborate!
+## 🤝 Let's Connect
 
-I'm always open to:
-- 💡 Innovative project ideas
-- 🤖 AI and automation collaborations
-- 🧠 Mentoring opportunities
-- 📝 Writing and content co-creation
+I'm open to:
+- 💡 Innovative ideas in tech
+- 🤖 AI and automation projects
+- 🧠 Mentorship, collabs, and hackathons
+- 📝 Content creation partnerships
 
 ---
 
-## 📫 Contact Me
-
-<a href="https://linkedin.com/in/brian-mwalish-7a746a306" target="_blank">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQHDa-ZWyfm3Gw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1714048821481?e=1758153600&v=beta&t=jdYTsQo6tDI63BL-vc9ZCGRK_ve_SBKTLY1mIH0dVf4" width="120" alt="LinkedIn Profile Picture" style="border-radius: 50%;" />
-</a>
+## 📬 Contact Me
 
 - 📧 [brianmwalish@gmail.com](mailto:brianmwalish@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/brian-mwalish-7a746a306)  
+- 💼 [LinkedIn Profile](https://linkedin.com/in/brian-mwalish-7a746a306)  
 - 🌐 Portfolio: *Coming Soon*
 
 ---
@@ -177,5 +175,5 @@ I'm always open to:
 ---
 
 <p align="center">
-  <i>Thanks for visiting my profile! Let's build something amazing together 🚀</i>
+  <i>Thanks for stopping by! Let’s build something great together 🚀</i>
 </p>
