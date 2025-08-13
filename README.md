@@ -22,11 +22,10 @@
 ---
 
 ## 🚀 About Me
-
-🎓 I'm a **full-stack developer** with deep expertise in building scalable web, AI, and automation apps.  
-🐍 Specializing in **Python** — from RESTful backends using Django/FastAPI to deep learning with TensorFlow/PyTorch.  
-🎨 As a **graphic/UI designer**, I create stunning interfaces using **Figma** and **Canva**.  
-🧠 Currently focused on **restaurant tech**, **AI tools**, and full-stack SaaS development.
+🎓 **Full-stack developer** with expertise in scalable web, AI, and automation apps.  
+🐍 **Python Specialist** — from RESTful backends (Django/FastAPI) to AI with TensorFlow/PyTorch.  
+🎨 **UI/UX & Graphic Designer** with Figma & Canva.  
+🧠 Currently focused on **restaurant tech**, **AI tools**, and **SaaS development**.
 
 ---
 
@@ -61,16 +60,14 @@
 ---
 
 ## 🎯 2025 Goals
-
-- 🚀 Launch 5+ full-stack SaaS products  
+- 🚀 Launch **5+ SaaS products**  
 - ✍️ Publish developer tutorials/blogs  
-- ⚙️ Master DevOps (CI/CD, Docker, Kubernetes)  
+- ⚙️ Master **DevOps** (CI/CD, Docker, Kubernetes)  
 - 📢 Mentor junior developers  
 
 ---
 
 ## 🔧 Currently Building
-
 💼 **SmartTable** – Restaurant reservation optimizer (Django + React)  
 📸 **AI Classifier** – Real-time image classification (TensorFlow + Streamlit)  
 🎨 **Portfolio** – Animated, mobile-first portfolio website  
@@ -90,7 +87,6 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Brian2021-Mwalish&show_icons=true&theme=radical" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brian2021-Mwalish&theme=tokyonight" width="48%"/>
@@ -99,7 +95,6 @@
 ---
 
 ## 🔥 GitHub Activity
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brian2021-Mwalish&theme=react-dark&hide_border=true" />
 </p>
@@ -107,7 +102,6 @@
 ---
 
 ## 🧠 Learning Journey
-
 - 🔐 JWT, OAuth2  
 - 🐳 Kubernetes & Docker Swarm  
 - ☁️ AWS (EC2, RDS, Lambda)  
@@ -117,15 +111,13 @@
 ---
 
 ## 🌍 Community Involvement
-
 - 👨‍🏫 Mentor @ DjangoGirls Lusaka  
-- 💻 Open-source contributor in Django & React  
-- 📝 Upcoming blogs on Medium and Dev.to  
+- 💻 Open-source contributor (Django & React)  
+- 📝 Blogs on Medium & Dev.to  
 
 ---
 
 ## 🎉 Fun Facts
-
 - 🧩 Puzzle enthusiast  
 - 🎮 Pixel art hobbyist  
 - 📚 Audiobook lover  
@@ -133,13 +125,11 @@
 ---
 
 ## ✨ Quote
-
 > "Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson  
 
 ---
 
 ## 🤝 Connect with Me
-
 <p align="center">
   <a href="mailto:brianmwalish@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40"/></a>
   <a href="https://linkedin.com/in/brian-mwalish-7a746a306"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40"/></a>
