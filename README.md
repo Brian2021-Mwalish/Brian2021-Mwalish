@@ -8,7 +8,7 @@
   <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="40">
     <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
           font-family="Arial, sans-serif" font-size="20" fill="silver">
-      Full-stack Developer | Python Enthusiast | AI & UI/UX Designer | Graphic Designer | System Architect | Problem Solver
+      Full-stack Developer | Python Enthusiast | UI/UX Designer | Graphic Designer | System Architect | Problem Solver
       <animate attributeName="fill" values="silver;#c0c0c0;#e6e6e6;silver" dur="2s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="1;0.5;1" dur="1.5s" repeatCount="indefinite"/>
     </text>
