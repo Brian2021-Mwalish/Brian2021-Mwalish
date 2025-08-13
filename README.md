@@ -4,12 +4,23 @@
 </h1>
 
 <p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="40">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-          font-family="Arial, sans-serif" font-size="20" fill="silver">
-      Full-stack Developer | Python Enthusiast | AI & UI/UX Designer | Graphic Designer | System Architect | Problem Solver
-      <animate attributeName="fill" values="silver;#c0c0c0;#e6e6e6;silver" dur="2s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="1;0.5;1" dur="1.5s" repeatCount="indefinite"/>
+  <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="50">
+    <defs>
+      <linearGradient id="gradientColors" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="silver">
+          <animate attributeName="stop-color" values="silver;gold;lightblue;silver" dur="4s" repeatCount="indefinite"/>
+        </stop>
+        <stop offset="100%" stop-color="lightblue">
+          <animate attributeName="stop-color" values="lightblue;silver;gold;lightblue" dur="4s" repeatCount="indefinite"/>
+        </stop>
+      </linearGradient>
+    </defs>
+
+    <text font-family="Arial, sans-serif" font-size="20" fill="url(#gradientColors)">
+      <tspan>
+        Full-stack Developer | Python Enthusiast | AI & UI/UX Designer | Graphic Designer | System Architect | Problem Solver
+      </tspan>
+      <animateMotion dur="8s" repeatCount="indefinite" path="M -800 0 L 800 0 Z"/>
     </text>
   </svg>
   <br>
@@ -18,11 +29,11 @@
 
 ---
 
-## 🚀 About Me
-🎓 I'm a **full-stack developer** with expertise in scalable web apps, AI solutions, and automation tools.  
-🐍 Specializing in **Python** — from Django/FastAPI backends to deep learning with TensorFlow & PyTorch.  
-🎨 Passionate **graphic/UI designer** — crafting interfaces with Figma & Canva.  
-🧠 Currently working on **restaurant tech**, **AI tools**, and **full-stack SaaS platforms**.  
+##  About Me
+🎓 Full-stack developer with expertise in scalable web apps, AI solutions, and automation tools.  
+🐍 Specializing in Python — from Django/FastAPI backends to deep learning with TensorFlow & PyTorch.  
+🎨 Graphic/UI designer — crafting interfaces with Figma & Canva.  
+🧠 Focused on restaurant tech, AI tools, and full-stack SaaS platforms.  
 
 ---
 
@@ -32,8 +43,6 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/>
