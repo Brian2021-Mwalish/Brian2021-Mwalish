@@ -4,18 +4,25 @@
 </h1>
 
 <p align="center">
-  <i>Full-stack Developer | Python Enthusiast | AI & UI/UX Designer | Problem Solver</i><br>
+  <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="40">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          font-family="Arial, sans-serif" font-size="20" fill="silver">
+      Full-stack Developer | Python Enthusiast | AI & UI/UX Designer | Graphic Designer | System Architect | Problem Solver
+      <animate attributeName="fill" values="silver;#c0c0c0;#e6e6e6;silver" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.5;1" dur="1.5s" repeatCount="indefinite"/>
+    </text>
+  </svg>
+  <br>
   <img src="https://media.licdn.com/dms/image/v2/D4D03AQHDa-ZWyfm3Gw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1714048821481?e=1758153600&v=beta&t=jdYTsQo6tDI63BL-vc9ZCGRK_ve_SBKTLY1mIH0dVf4" alt="Profile Photo" width="150" style="border-radius: 50%;"/>
 </p>
 
 ---
 
 ## 🚀 About Me
-
-🎓 I'm a **full-stack developer** with deep expertise in building scalable web, AI, and automation apps.  
-🐍 Specializing in **Python** — from RESTful backends using Django/FastAPI to deep learning with TensorFlow/PyTorch.  
-🎨 As a **graphic/UI designer**, I create stunning interfaces using **Figma** and **Canva**.  
-🧠 Currently focused on **restaurant tech**, **AI tools**, and full-stack SaaS development.
+🎓 I'm a **full-stack developer** with expertise in scalable web apps, AI solutions, and automation tools.  
+🐍 Specializing in **Python** — from Django/FastAPI backends to deep learning with TensorFlow & PyTorch.  
+🎨 Passionate **graphic/UI designer** — crafting interfaces with Figma & Canva.  
+🧠 Currently working on **restaurant tech**, **AI tools**, and **full-stack SaaS platforms**.  
 
 ---
 
@@ -25,6 +32,8 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/>
@@ -50,8 +59,7 @@
 ---
 
 ## 🎯 2025 Goals
-
-- 🚀 Launch 5+ full-stack SaaS products  
+- 🚀 Launch 5+ SaaS products  
 - ✍️ Publish developer tutorials/blogs  
 - ⚙️ Master DevOps (CI/CD, Docker, Kubernetes)  
 - 📢 Mentor junior developers  
@@ -59,27 +67,24 @@
 ---
 
 ## 🔧 Currently Building
-
-💼 **SmartTable** – Restaurant reservation optimizer (Django + React)  
-📸 **AI Classifier** – Real-time image classification (TensorFlow + Streamlit)  
-🎨 **Portfolio** – Animated, mobile-first portfolio website  
+💼 **SmartTable** – AI-powered restaurant reservation optimizer (Django + React)  
+📸 **AI Classifier** – Real-time image classification app (TensorFlow + Streamlit)  
+🎨 **Portfolio 2.0** – Animated, mobile-first portfolio  
 
 ---
 
 ## 🌟 Featured Projects
-
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| **SmartTable** | Django, React, PostgreSQL | AI-powered restaurant seating management |
-| **AI Classifier** | TensorFlow, Streamlit | Real-time image recognition app |
+| **SmartTable** | Django, React, PostgreSQL | AI-powered restaurant seating & reservations |
+| **AI Classifier** | TensorFlow, Streamlit | Real-time image recognition |
 | **Book Buddy** | Flask, SQLite | Smart library & recommendation tool |
 | **DevJournal** | Django, CKEditor | Markdown blog for developers |
-| **Portfolio** | HTML, Tailwind, GSAP | Animated portfolio with modern UI |
+| **Portfolio** | HTML, Tailwind, GSAP | Animated personal portfolio |
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Brian2021-Mwalish&show_icons=true&theme=radical" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brian2021-Mwalish&theme=tokyonight" width="48%"/>
@@ -88,7 +93,6 @@
 ---
 
 ## 🔥 GitHub Activity
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brian2021-Mwalish&theme=react-dark&hide_border=true" />
 </p>
@@ -96,7 +100,6 @@
 ---
 
 ## 🧠 Learning Journey
-
 - 🔐 JWT, OAuth2  
 - 🐳 Kubernetes & Docker Swarm  
 - ☁️ AWS (EC2, RDS, Lambda)  
@@ -106,15 +109,13 @@
 ---
 
 ## 🌍 Community Involvement
-
 - 👨‍🏫 Mentor @ DjangoGirls Lusaka  
 - 💻 Open-source contributor in Django & React  
-- 📝 Upcoming blogs on Medium and Dev.to  
+- 📝 Upcoming blogs on Medium & Dev.to  
 
 ---
 
 ## 🎉 Fun Facts
-
 - 🧩 Puzzle enthusiast  
 - 🎮 Pixel art hobbyist  
 - 📚 Audiobook lover  
@@ -122,13 +123,11 @@
 ---
 
 ## ✨ Quote
-
 > "Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson  
 
 ---
 
 ## 🤝 Connect with Me
-
 <p align="center">
   <a href="mailto:brianmwalish@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40"/></a>
   <a href="https://linkedin.com/in/brian-mwalish-7a746a306"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40"/></a>
