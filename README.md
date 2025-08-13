@@ -1,8 +1,11 @@
-<h1 align="center">👋 Hi there, I'm Brian Mwalish</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/brian2021-mwalish/assets/main/wave-hand.gif" width="50" style="vertical-align: middle;"/> 
+  Hi there, I'm <b>Brian Mwalish</b>
+</h1>
 
 <p align="center">
-  <i>Full-stack Developer | Python Enthusiast | AI & UI/UX Lover | Problem Solver</i><br>
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQHDa-ZWyfm3Gw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1714048821481?e=1758153600&v=beta&t=jdYTsQo6tDI63BL-vc9ZCGRK_ve_SBKTLY1mIH0dVf4" alt="Profile views"/>
+  <i>Full-stack Developer | Python Enthusiast | AI & UI/UX Designer | Problem Solver</i><br>
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQHDa-ZWyfm3Gw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1714048821481?e=1758153600&v=beta&t=jdYTsQo6tDI63BL-vc9ZCGRK_ve_SBKTLY1mIH0dVf4" alt="Profile Photo" width="150" style="border-radius: 50%;"/>
 </p>
 
 ---
@@ -10,47 +13,58 @@
 ## 🚀 About Me
 
 🎓 I'm a **full-stack developer** with deep expertise in building scalable web, AI, and automation apps.  
-🐍 I specialize in **Python**—from RESTful backends using Django/FastAPI to deep learning with TensorFlow/PyTorch.  
-🎯 I build clean UIs, fast APIs, and efficient solutions for real-world problems.  
+🐍 Specializing in **Python** — from RESTful backends using Django/FastAPI to deep learning with TensorFlow/PyTorch.  
+🎨 As a **graphic/UI designer**, I create stunning interfaces using **Figma** and **Canva**.  
 🧠 Currently focused on **restaurant tech**, **AI tools**, and full-stack SaaS development.
 
 ---
 
 ## 🧠 Tech Stack & Tools
 
-### 🧰 Languages & Frameworks
-- 🐍 Python (Django, Flask, FastAPI)
-- 🌐 JavaScript (React, Node.js, Express)
-- 💻 C, C++
-- 🐘 PHP, MySQL, PostgreSQL
-- 🧠 TensorFlow, PyTorch, OpenCV
-- 🧪 HTML, CSS, Tailwind, Bootstrap
+### Languages & Frameworks
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>
+</p>
 
-### 🛠️ Tools & Platforms
-- 🔧 VS Code, Postman, Git, GitHub
-- ☁️ Firebase, Netlify, Vercel, Heroku
-- 🧪 Selenium, Pytest
-- 📊 Pandas, NumPy, Matplotlib
-- 🐳 Docker, Bash, GitHub Actions
-- 🎨 Figma, Adobe XD
+### Tools & Platforms
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50"/>
+</p>
 
 ---
 
 ## 🎯 2025 Goals
 
-✅ Launch 5+ full-stack SaaS products  
-✅ Write and publish dev tutorials/blogs  
-✅ Master DevOps (CI/CD, Docker, Kubernetes)  
-✅ Build open-source tools  
-✅ Mentor junior developers consistently  
+- 🚀 Launch 5+ full-stack SaaS products  
+- ✍️ Publish developer tutorials/blogs  
+- ⚙️ Master DevOps (CI/CD, Docker, Kubernetes)  
+- 📢 Mentor junior developers  
 
 ---
 
 ## 🔧 Currently Building
 
 💼 **SmartTable** – Restaurant reservation optimizer (Django + React)  
-📸 **AI Classifier** – Real-time image classification app (TensorFlow + Streamlit)  
-🌐 Rebuilding my **personal portfolio** with animations, accessibility, and mobile-first design  
+📸 **AI Classifier** – Real-time image classification (TensorFlow + Streamlit)  
+🎨 **Portfolio** – Animated, mobile-first portfolio website  
 
 ---
 
@@ -58,122 +72,72 @@
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| **SmartTable** | Django, React, PostgreSQL | Manages reservations and seating intelligently for restaurants |
-| **AI Classifier** | TensorFlow, Streamlit | Deep learning image classification in real time |
-| **Book Buddy** | Flask, SQLite | A smart book management and recommendation tool |
-| **DevJournal** | Django, CKEditor | Developer-friendly blog with markdown & editor features |
-| **Portfolio Website** | HTML, CSS, JS | Custom-designed responsive dev portfolio |
+| **SmartTable** | Django, React, PostgreSQL | AI-powered restaurant seating management |
+| **AI Classifier** | TensorFlow, Streamlit | Real-time image recognition app |
+| **Book Buddy** | Flask, SQLite | Smart library & recommendation tool |
+| **DevJournal** | Django, CKEditor | Markdown blog for developers |
+| **Portfolio** | HTML, Tailwind, GSAP | Animated portfolio with modern UI |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brian2021-Mwalish&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brian2021-Mwalish&layout=compact&theme=tokyonight&langs_count=10&hide=html,css" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brian2021-Mwalish&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Brian2021-Mwalish&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brian2021-Mwalish&theme=tokyonight" width="48%"/>
 </p>
 
 ---
 
-## 🧰 Languages & Tools
+## 🔥 GitHub Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brian2021-Mwalish&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 GitHub Activity Graph
+## 🧠 Learning Journey
+
+- 🔐 JWT, OAuth2  
+- 🐳 Kubernetes & Docker Swarm  
+- ☁️ AWS (EC2, RDS, Lambda)  
+- 📱 Flutter & Firebase  
+- 🤖 NLP with spaCy, HuggingFace  
+
+---
+
+## 🌍 Community Involvement
+
+- 👨‍🏫 Mentor @ DjangoGirls Lusaka  
+- 💻 Open-source contributor in Django & React  
+- 📝 Upcoming blogs on Medium and Dev.to  
+
+---
+
+## 🎉 Fun Facts
+
+- 🧩 Puzzle enthusiast  
+- 🎮 Pixel art hobbyist  
+- 📚 Audiobook lover  
+
+---
+
+## ✨ Quote
+
+> "Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson  
+
+---
+
+## 🤝 Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brian2021-Mwalish&theme=react-dark" />
+  <a href="mailto:brianmwalish@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40"/></a>
+  <a href="https://linkedin.com/in/brian-mwalish-7a746a306"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40"/></a>
 </p>
 
 ---
 
-## 🧠 What I'm Learning
-
-- 🔐 JWT, OAuth2 for secure APIs  
-- 🐳 Docker Swarm, Kubernetes  
-- ☁️ AWS (EC2, RDS, S3, Lambda)  
-- 📲 Flutter & Firebase for mobile apps  
-- 💬 NLP with spaCy, HuggingFace Transformers  
-
----
-
-## 🌍 Community Contributions
-
-- 🧑‍🏫 Mentor @ DjangoGirls Lusaka  
-- 🧪 Open-source contributor in Django + React space  
-- ✍️ Soon publishing dev blogs on Medium and Dev.to  
-- 🧵 Active in Stack Overflow & Discord communities  
-
----
-
-## ✍️ Upcoming Articles
-
-- 🚀 Building Scalable APIs with FastAPI  
-- 🔍 React vs Django Templates: What to Use When  
-- 🧱 How I Built My Portfolio with Tailwind + Animation  
-
----
-
-## 🎉 Fun Facts About Me
-
-- 🧩 Love puzzles and logic games  
-- 📚 Avid reader and audiobook addict  
-- 🎮 Indie game fan and casual pixel artist  
-- 🎵 I code best with Lo-Fi and Synthwave  
-
----
-
-## ✨ Favorite Dev Quote
-
-> "Programs must be written for people to read, and only incidentally for machines to execute."  
-> — **Harold Abelson**
-
----
-
-## 🤝 Let's Connect
-
-I'm open to:
-- 💡 Innovative ideas in tech
-- 🤖 AI and automation projects
-- 🧠 Mentorship, collabs, and hackathons
-- 📝 Content creation partnerships
-
----
-
-## 📬 Contact Me
-
-- 📧 [brianmwalish@gmail.com](mailto:brianmwalish@gmail.com)  
-- 💼 [LinkedIn Profile](https://linkedin.com/in/brian-mwalish-7a746a306)  
-- 🌐 Portfolio: *Coming Soon*
-
----
-
-## 😂 Random Dev Joke
-
-![Joke](https://readme-jokes.vercel.app/api)
-
----
-
 <p align="center">
-  <i>Thanks for stopping by! Let’s build something great together 🚀</i>
+  <i>Thanks for stopping by! Let’s build something great 🚀</i>
 </p>
