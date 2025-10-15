@@ -9,10 +9,10 @@
     <defs>
       <linearGradient id="gradient">
         <stop offset="0%" stop-color="#ff0080">
-          <animate attributeName="stop-color" values="#ff0080;#ff8c00;#40e0d0;#ff0080" dur="6s" repeatCount="indefinite"/>
+          <animate attributeName="stop-color" values="#ff0080;#ff8c00;#40e0d0;#ff0080;#ff1493;#00ff7f;#ff0080" dur="8s" repeatCount="indefinite"/>
         </stop>
         <stop offset="100%" stop-color="#40e0d0">
-          <animate attributeName="stop-color" values="#40e0d0;#ff0080;#ff8c00;#40e0d0" dur="6s" repeatCount="indefinite"/>
+          <animate attributeName="stop-color" values="#40e0d0;#ff0080;#ff8c00;#40e0d0;#ff1493;#00ff7f;#40e0d0" dur="8s" repeatCount="indefinite"/>
         </stop>
       </linearGradient>
     </defs>
@@ -26,11 +26,11 @@
     <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
           font-family="Poppins, sans-serif" font-size="22" fill="#00ffff" filter="url(#glow)">
       Full-stack Developer | AI Enthusiast | UI/UX Designer | Problem Solver
-      <animate attributeName="fill" values="#ff0080;#ff8c00;#40e0d0;#ff0080" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#ff0080;#ff8c00;#40e0d0;#ff0080;#ff1493;#00ff7f;#ff0080" dur="6s" repeatCount="indefinite"/>
     </text>
     <defs>
       <filter id="glow">
-        <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+        <feGaussianBlur stdDeviation="3.0" result="coloredBlur"/>
         <feMerge>
           <feMergeNode in="coloredBlur"/>
           <feMergeNode in="SourceGraphic"/>
@@ -47,44 +47,44 @@
 
 ---
 
-## 🚀 About Me
-💻 **Full-stack Developer** passionate about scalable systems & smart automation.  
-🐍 **Python Wizard** — from APIs (Django/FastAPI) to AI (TensorFlow/PyTorch).  
-🎨 **UI/UX Designer** skilled with Figma, Canva, and modern animation tools.  
-🧠 Currently building products in **AI**, **restaurant tech**, and **SaaS automation**.
+## About Me
+Full-stack Developer passionate about scalable systems & smart automation.
+Python Wizard — from APIs (Django/FastAPI) to AI (TensorFlow/PyTorch).
+UI/UX Designer skilled with Figma, Canva, and modern animation tools.
+Currently building products in AI, restaurant tech, and SaaS automation.
 
 ---
 
-## 🧠 Tech Stack & Tools
+## Tech Stack & Tools
 
-### 💬 Languages & Frameworks
+### Languages & Frameworks
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,react,cpp,php,html,css,mysql,postgresql&theme=light"/>
 </p>
 
-### 🧰 Tools & Platforms
+### Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,github,heroku,firebase,netlify,figma,canva,docker,linux&theme=light"/>
 </p>
 
 ---
 
-## 🎯 2025 Goals
-🌟 Launch **5+ SaaS platforms**  
-🧩 Master **Kubernetes & CI/CD pipelines**  
-✍️ Publish **open-source libraries & tutorials**  
-💡 Mentor and grow developer communities  
+## 2025 Goals
+Launch 5+ SaaS platforms
+Master Kubernetes & CI/CD pipelines
+Publish open-source libraries & tutorials
+Mentor and grow developer communities
 
 ---
 
-## 🔧 Currently Building
-🚀 **SmartTable** – AI-powered restaurant seating optimizer  
-🧠 **AI Classifier** – Real-time image recognition with TensorFlow  
-🎨 **Portfolio 2.0** – Animated, glassmorphic developer portfolio  
+## Currently Building
+SmartTable – AI-powered restaurant seating optimizer
+AI Classifier – Real-time image recognition with TensorFlow
+Portfolio 2.0 – Animated, glassmorphic developer portfolio
 
 ---
 
-## 🌈 Featured Projects
+## Featured Projects
 
 | Project | Stack | Description |
 |----------|--------|-------------|
@@ -96,7 +96,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Brian2021-Mwalish&show_icons=true&theme=radical&hide_border=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brian2021-Mwalish&theme=tokyonight&hide_border=true" width="48%"/>
@@ -104,42 +104,49 @@
 
 ---
 
-## 🔥 GitHub Activity
+## GitHub Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brian2021-Mwalish&theme=react-dark&hide_border=true&bg_color=0d1117&color=40e0d0&line=ff0080&point=ffffff" />
 </p>
 
 ---
 
-## 🧠 Learning Journey
-🔐 OAuth2 & JWT  
-🐳 Docker Swarm + Kubernetes  
-☁️ AWS (Lambda, EC2, RDS)  
-📱 Flutter + Firebase  
-🤖 NLP with spaCy & HuggingFace  
+## Learning Journey
+OAuth2 & JWT
+Docker Swarm + Kubernetes
+AWS (Lambda, EC2, RDS)
+Flutter + Firebase
+NLP with spaCy & HuggingFace
 
 ---
 
-## 🌍 Community & Contributions
-👨‍🏫 Mentor @ DjangoGirls Lusaka  
-💻 Open-source contributor (Django & React)  
-📝 Writer on Medium & Dev.to  
+## Community & Contributions
+Mentor @ DjangoGirls Lusaka
+Open-source contributor (Django & React)
+Writer on Medium & Dev.to
 
 ---
 
-## 🎮 Fun Zone
-🧩 Puzzle enthusiast  
-🎮 Pixel art hobbyist  
-📚 Audiobook addict  
+## Fun Zone
+Puzzle enthusiast
+Pixel art hobbyist
+Audiobook addict
 
 ---
 
-## ✨ Quote
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
+## Fun Facts
+I once debugged a code issue by explaining it to my rubber duck
+I can code for 12 hours straight fueled by coffee and curiosity
+My first "Hello World" was in Python, and I've been hooked ever since
 
 ---
 
-## 🤝 Connect with Me
+## Quote
+> “Code is poetry written in logic, where every bug is a plot twist.” – Brian Mwalish
+
+---
+
+## Connect with Me
 <p align="center">
   <a href="mailto:brianmwalish@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40"/></a>
   <a href="https://linkedin.com/in/brian-mwalish-7a746a306"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40"/></a>
