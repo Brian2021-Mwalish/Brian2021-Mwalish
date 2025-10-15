@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQHDa-ZWyfm3Gw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1714048821481?e=1758153600&v=beta&t=jdYTsQo6tDI63BL-vc9ZCGRK_ve_SBKTLY1mIH0dVf4" alt="Profile Photo" width="150" style="border-radius: 50%;"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQGEZiINbpEtDw/profile-displayphoto-scale_100_100/B4DZnZlKuPGgAc-/0/1760292024853?e=1763596800&v=beta&t=7EgQulIkMFpCCLOU_dM5P9z_cwtIjrYhRY_PRaCztjU" alt="Profile Photo" width="150" style="border-radius: 50%;"/>
 </p>
 
 ---
