@@ -1,4 +1,0 @@
-- [x] Remove all emojis from the README
-- [x] Add a "Fun Facts" section with personal quirks
-- [x] Update the quote to something custom
-- [x] Enhance animations with more colors and smoother transitions
