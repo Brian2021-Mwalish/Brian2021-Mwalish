@@ -148,21 +148,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=40E0D0&center=true&vCenter=true&width=435&lines=Thanks+for+stopping+by!+🚀;Let's+build+something+awesome+💡;Keep+learning,+keep+building+🔥" alt="Typing SVG" />
-</p>
 
----
-
-<style>
-  /* This CSS animates the title gradient colors */
-  @keyframes colorShift {
-    0% { color: #ff0080; }
-    33% { color: #ff8c00; }
-    66% { color: #40e0d0; }
-    100% { color: #ff0080; }
-  }
-  #title-text {
-    animation: colorShift 6s infinite;
-  }
-</style>
