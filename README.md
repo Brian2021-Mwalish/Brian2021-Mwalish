@@ -55,6 +55,11 @@
 
 ---
 
+## 🌟 My Journey
+From a young age, I've been fascinated by how technology can solve real-world problems. Starting with simple scripts in Python, I evolved into a full-stack developer, blending creativity with code. My journey has taken me through building AI models, designing intuitive UIs, and launching SaaS products. I'm passionate about open-source and mentoring the next generation of developers.
+
+---
+
 ## 🧠 Tech Stack & Tools
 
 ### 💬 Languages & Frameworks
@@ -74,6 +79,14 @@
 🧩 Master **Kubernetes & CI/CD pipelines**  
 ✍️ Publish **open-source libraries & tutorials**  
 💡 Mentor and grow developer communities  
+
+---
+
+## 🏆 Recent Achievements
+- Launched SmartTable, an AI-powered restaurant seating optimizer, serving 100+ users.
+- Contributed to open-source projects on GitHub, earning 500+ stars.
+- Completed certifications in AWS and Kubernetes.
+- Mentored 20+ developers through DjangoGirls Lusaka.
 
 ---
 
@@ -100,6 +113,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Brian2021-Mwalish&show_icons=true&theme=radical&hide_border=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brian2021-Mwalish&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Brian2021-Mwalish.Brian2021-Mwalish" />
 </p>
 
 ---
@@ -134,8 +148,12 @@
 
 ---
 
-## ✨ Quote
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
+## ✨ Quotes
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+> “The best way to predict the future is to invent it.” – Peter Drucker
+
+> “First, solve the problem. Then, write the code.” – John Johnson
 
 ---
 
@@ -145,5 +163,3 @@
   <a href="https://linkedin.com/in/brian-mwalish-7a746a306"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40"/></a>
   <a href="https://github.com/Brian2021-Mwalish"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40"/></a>
 </p>
-
-
