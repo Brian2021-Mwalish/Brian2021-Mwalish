@@ -32,10 +32,10 @@
 ```python
 class Brian:
     name       = "Brian Mwalish"
-    location   = "Lusaka, Zambia 🇿🇲"
+    location   = "Eldoret Kenya"
     role       = "Application Solutions Specialist"
     focus      = ["AI/ML", "Full-Stack Dev", "SaaS Automation", "UI/UX Design"]
-    languages  = ["Python", "JavaScript", "PHP", "C++", "SQL"]
+    languages  = ["Python",  "PHP", "C++", "SQL"]
     frameworks = ["Django", "FastAPI", "React", "TensorFlow", "PyTorch"]
     tools      = ["Docker", "Figma", "Firebase", "PostgreSQL", "Linux"]
     mission    = "Turn complex problems into elegant, scalable solutions."
