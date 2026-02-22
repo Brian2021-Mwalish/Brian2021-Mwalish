@@ -3,7 +3,7 @@
   <span id="title-text">Hi there, I'm <b>Brian Mwalish</b></span>
 </h1>
 
-<!-- Animated Background -->
+<!-- Animated Gradient Line -->
 <div align="center">
   <svg width="100%" height="5">
     <defs>
@@ -43,6 +43,29 @@
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4D03AQGEZiINbpEtDw/profile-displayphoto-scale_200_200/B4DZnZlKuPGgAY-/0/1760292024853?e=1773273600&v=beta&t=aFcQ6wBFUQgbQiYzYFe-SbpUSVuIxAmnzD6PAnfwbqQ" 
        alt="Profile Photo" width="150" style="border-radius: 50%; box-shadow: 0 0 25px rgba(64,224,208,0.7);"/>
+</p>
+
+<!-- Portfolio Highlight -->
+<p align="center">
+  <a href="https://kraftrix-africa.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-Kraftrix_Africa-000000?style=for-the-badge&logo=vercel&logoColor=white" 
+         alt="Portfolio Badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://kraftrix-africa.vercel.app/" target="_blank">
+    <span style="
+      font-size:18px;
+      font-weight:bold;
+      background: linear-gradient(90deg, #ff0080, #ff8c00, #40e0d0);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      text-shadow: 0 0 15px rgba(64,224,208,0.6);
+    ">
+      🚀 Explore My Interactive Portfolio – Kraftrix Africa
+    </span>
+  </a>
 </p>
 
 ---
@@ -97,7 +120,7 @@ From a young age, I've been fascinated by how technology can solve real-world pr
 
 ---
 
-## 🌈 Featured Projects
+##  Featured Projects
 
 | Project | Stack | Description |
 |----------|--------|-------------|
@@ -149,11 +172,9 @@ From a young age, I've been fascinated by how technology can solve real-world pr
 ---
 
 ## ✨ Quotes
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
-> “The best way to predict the future is to invent it.” – Peter Drucker
-
-> “First, solve the problem. Then, write the code.” – John Johnson
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
+> “The best way to predict the future is to invent it.” – Peter Drucker  
+> “First, solve the problem. Then, write the code.” – John Johnson  
 
 ---
 
