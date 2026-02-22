@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Brian%20Mwalish&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Application%20Solutions%20Specialist%20%7C%20AI%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=16&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Brian%20Mwalish&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Application%20Solutions%20Specialist%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descSize=16&animation=fadeIn"/>
 
 <!-- PROFILE PHOTO -->
 <br/>
