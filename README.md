@@ -1,186 +1,167 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/brian2021-mwalish/assets/main/wave-hand.gif" width="50" style="vertical-align: middle;"/> 
-  <span id="title-text">Hi there, I'm <b>Brian Mwalish</b></span>
-</h1>
-
-<!-- Animated Gradient Line -->
 <div align="center">
-  <svg width="100%" height="5">
-    <defs>
-      <linearGradient id="gradient">
-        <stop offset="0%" stop-color="#ff0080">
-          <animate attributeName="stop-color" values="#ff0080;#ff8c00;#40e0d0;#ff0080" dur="6s" repeatCount="indefinite"/>
-        </stop>
-        <stop offset="100%" stop-color="#40e0d0">
-          <animate attributeName="stop-color" values="#40e0d0;#ff0080;#ff8c00;#40e0d0" dur="6s" repeatCount="indefinite"/>
-        </stop>
-      </linearGradient>
-    </defs>
-    <rect width="100%" height="5" fill="url(#gradient)"/>
-  </svg>
+
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Brian%20Mwalish&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Application%20Solutions%20Specialist%20%7C%20AI%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=16&animation=fadeIn"/>
+
+<!-- PROFILE PHOTO -->
+<br/>
+<img src="https://media.licdn.com/dms/image/v2/D4D03AQGEZiINbpEtDw/profile-displayphoto-scale_200_200/B4DZnZlKuPGgAY-/0/1760292024853?e=1773273600&v=beta&t=aFcQ6wBFUQgbQiYzYFe-SbpUSVuIxAmnzD6PAnfwbqQ" width="130" style="border-radius:50%"/>
+
+<br/><br/>
+
+<!-- TYPING SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=40E0D0&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+%F0%9F%A7%A0;Crafting+beautiful+interfaces+%F0%9F%8E%A8;Automating+the+future+%F0%9F%A4%96;Open-source+advocate+%F0%9F%8C%8D" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- SOCIAL BADGES -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-Kraftrix_Africa-000?style=for-the-badge&logo=vercel&logoColor=white)](https://kraftrix-africa.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brian-mwalish-7a746a306)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brianmwalish@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brian2021-Mwalish)
+[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Brian2021-Mwalish.Brian2021-Mwalish)](https://github.com/Brian2021-Mwalish)
+
 </div>
 
-<!-- Animated Role -->
-<p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="50">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-          font-family="Poppins, sans-serif" font-size="22" fill="#00ffff" filter="url(#glow)">
-      Application Solutions Specialist | AI Enthusiast | UI/UX Designer | Problem Solver
-      <animate attributeName="fill" values="#ff0080;#ff8c00;#40e0d0;#ff0080" dur="4s" repeatCount="indefinite"/>
-    </text>
-    <defs>
-      <filter id="glow">
-        <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
-        <feMerge>
-          <feMergeNode in="coloredBlur"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-    </defs>
-  </svg>
-</p>
+---
 
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQGEZiINbpEtDw/profile-displayphoto-scale_200_200/B4DZnZlKuPGgAY-/0/1760292024853?e=1773273600&v=beta&t=aFcQ6wBFUQgbQiYzYFe-SbpUSVuIxAmnzD6PAnfwbqQ" 
-       alt="Profile Photo" width="150" style="border-radius: 50%; box-shadow: 0 0 25px rgba(64,224,208,0.7);"/>
-</p>
+## ◈ About Me
 
-<!-- Portfolio Highlight -->
-<p align="center">
-  <a href="https://kraftrix-africa.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-Kraftrix_Africa-000000?style=for-the-badge&logo=vercel&logoColor=white" 
-         alt="Portfolio Badge"/>
-  </a>
-</p>
+```python
+class Brian:
+    name       = "Brian Mwalish"
+    location   = "Lusaka, Zambia 🇿🇲"
+    role       = "Application Solutions Specialist"
+    focus      = ["AI/ML", "Full-Stack Dev", "SaaS Automation", "UI/UX Design"]
+    languages  = ["Python", "JavaScript", "PHP", "C++", "SQL"]
+    frameworks = ["Django", "FastAPI", "React", "TensorFlow", "PyTorch"]
+    tools      = ["Docker", "Figma", "Firebase", "PostgreSQL", "Linux"]
+    mission    = "Turn complex problems into elegant, scalable solutions."
+```
 
-<p align="center">
-  <a href="https://kraftrix-africa.vercel.app/" target="_blank">
-    <span style="
-      font-size:18px;
-      font-weight:bold;
-      background: linear-gradient(90deg, #ff0080, #ff8c00, #40e0d0);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      text-shadow: 0 0 15px rgba(64,224,208,0.6);
-    ">
-      🚀 Explore My Interactive Portfolio – Kraftrix Africa
-    </span>
-  </a>
-</p>
+From curiosity-driven scripting to shipping AI-powered SaaS platforms — I build systems that are **fast**, **intelligent**, and **beautiful**. Currently crafting products at the intersection of **restaurant technology**, **AI**, and **developer tooling**.
 
 ---
 
-## 🚀 About Me
-💻 **Full-stack Developer** passionate about scalable systems & smart automation.  
-🐍 **Python Wizard** — from APIs (Django/FastAPI) to AI (TensorFlow/PyTorch).  
-🎨 **UI/UX Designer** skilled with Figma, Canva, and modern animation tools.  
-🧠 Currently building products in **AI**, **restaurant tech**, and **SaaS automation**.
+## ◈ Tech Stack
+
+<div align="center">
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Infrastructure & Design**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
 
 ---
 
-## 🌟 My Journey
-From a young age, I've been fascinated by how technology can solve real-world problems. Starting with simple scripts in Python, I evolved into a full-stack developer, blending creativity with code. My journey has taken me through building AI models, designing intuitive UIs, and launching SaaS products. I'm passionate about open-source and mentoring the next generation of developers.
+## ◈ Featured Projects
+
+<div align="center">
+
+| ◈ Project | Stack | Description | Status |
+|-----------|-------|-------------|--------|
+| 🍽️ **SmartTable** | Django · React · PostgreSQL | AI-powered restaurant seating optimizer — 100+ active users | `Live` |
+| 🧠 **AI Classifier** | TensorFlow · Streamlit | Real-time image recognition with 95%+ accuracy | `Active` |
+| 📚 **Book Buddy** | Flask · SQLite | Smart digital library management system | `Complete` |
+| ✍️ **DevJournal** | Django · CKEditor | Markdown-powered blog platform for developers | `Complete` |
+| 🎨 **Portfolio 2.0** | Tailwind · GSAP | Interactive glassmorphic personal portfolio | `In Dev` |
+
+</div>
 
 ---
 
-## 🧠 Tech Stack & Tools
+## ◈ GitHub Stats
 
-### 💬 Languages & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,react,cpp,php,html,css,mysql,postgresql&theme=light"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Brian2021-Mwalish&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=40e0d0&icon_color=ff0080&text_color=ffffff&rank_icon=github" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brian2021-Mwalish&theme=tokyonight&hide_border=true&background=0d1117&ring=40e0d0&fire=ff0080&currStreakLabel=40e0d0" width="49%"/>
+</div>
 
-### 🧰 Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,heroku,firebase,netlify,figma,canva,docker,linux&theme=light"/>
-</p>
-
----
-
-## 🎯 2025 Goals
-🌟 Launch **5+ SaaS platforms**  
-🧩 Master **Kubernetes & CI/CD pipelines**  
-✍️ Publish **open-source libraries & tutorials**  
-💡 Mentor and grow developer communities  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brian2021-Mwalish&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=40e0d0&text_color=ffffff" width="40%"/>
+</div>
 
 ---
 
-## 🏆 Recent Achievements
-- Launched SmartTable, an AI-powered restaurant seating optimizer, serving 100+ users.
-- Contributed to open-source projects on GitHub, earning 500+ stars.
-- Completed certifications in AWS and Kubernetes.
-- Mentored 20+ developers through DjangoGirls Lusaka.
+## ◈ Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brian2021-Mwalish&theme=react-dark&hide_border=true&bg_color=0d1117&color=40e0d0&line=ff0080&point=ffffff&area=true&area_color=302b63" width="98%"/>
+</div>
 
 ---
 
-## 🔧 Currently Building
-🚀 **SmartTable** – AI-powered restaurant seating optimizer  
-🧠 **AI Classifier** – Real-time image recognition with TensorFlow  
-🎨 **Portfolio 2.0** – Animated, glassmorphic developer portfolio  
+## ◈ Achievements
+
+```
+🏆  500+   GitHub Stars across open-source contributions
+👥  100+   SmartTable users served at launch
+🎓  20+    Developers mentored via DjangoGirls Lusaka
+📜  2       Certifications: AWS · Kubernetes
+```
 
 ---
 
-##  Featured Projects
+## ◈ 2025 Roadmap
 
-| Project | Stack | Description |
-|----------|--------|-------------|
-| **SmartTable** | Django, React, PostgreSQL | AI-driven restaurant seating optimizer |
-| **AI Classifier** | TensorFlow, Streamlit | Real-time image recognition |
-| **Book Buddy** | Flask, SQLite | Smart digital library system |
-| **DevJournal** | Django, CKEditor | Markdown blog for developers |
-| **Portfolio 2.0** | Tailwind, GSAP | Interactive & animated personal site |
+- [ ] 🚀 Launch **5+ SaaS platforms**
+- [ ] 🐳 Master **Kubernetes & CI/CD pipelines**
+- [ ] 📦 Publish **open-source libraries & tutorials**
+- [ ] 👨‍🏫 Grow developer communities across Zambia
+- [ ] 📱 Ship a **Flutter** mobile app
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brian2021-Mwalish&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brian2021-Mwalish&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Brian2021-Mwalish.Brian2021-Mwalish" />
-</p>
+## ◈ Currently Learning
+
+![NLP](https://img.shields.io/badge/NLP-spaCy_%26_HuggingFace-412991?style=flat-square&logo=huggingface&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2_%26_JWT-000000?style=flat-square&logo=auth0&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
 
 ---
 
-## 🔥 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brian2021-Mwalish&theme=react-dark&hide_border=true&bg_color=0d1117&color=40e0d0&line=ff0080&point=ffffff" />
-</p>
+## ◈ Community
+
+- 👨‍🏫 **Mentor** @ DjangoGirls Lusaka
+- 💻 **Open-source contributor** — Django & React ecosystems
+- ✍️ **Technical writer** on Medium & Dev.to
 
 ---
 
-## 🧠 Learning Journey
-🔐 OAuth2 & JWT  
-🐳 Docker Swarm + Kubernetes  
-☁️ AWS (Lambda, EC2, RDS)  
-📱 Flutter + Firebase  
-🤖 NLP with spaCy & HuggingFace  
+<div align="center">
 
----
+*"First, solve the problem. Then, write the code."* — John Johnson
 
-## 🌍 Community & Contributions
-👨‍🏫 Mentor @ DjangoGirls Lusaka  
-💻 Open-source contributor (Django & React)  
-📝 Writer on Medium & Dev.to  
+<br/>
 
----
+[![Portfolio →](https://img.shields.io/badge/🚀_Explore_Kraftrix_Africa-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kraftrix-africa.vercel.app/)
 
-## 🎮 Fun Zone
-🧩 Puzzle enthusiast  
-🎮 Pixel art hobbyist  
-📚 Audiobook addict  
+<br/>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
-## ✨ Quotes
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
-> “The best way to predict the future is to invent it.” – Peter Drucker  
-> “First, solve the problem. Then, write the code.” – John Johnson  
-
----
-
-## 🤝 Connect with Me
-<p align="center">
-  <a href="mailto:brianmwalish@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40"/></a>
-  <a href="https://linkedin.com/in/brian-mwalish-7a746a306"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40"/></a>
-  <a href="https://github.com/Brian2021-Mwalish"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40"/></a>
-</p>
+</div>
