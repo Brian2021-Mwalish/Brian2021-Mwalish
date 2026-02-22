@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQGEZiINbpEtDw/profile-displayphoto-scale_200_200/B4DZnZlKuPGgAY-/0/1760292024853?e=1766016000&v=beta&t=V7ZUx63jAsQsPnXgloulUqbZA8yB5PXV7ZNmKi4GF6U" 
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQGEZiINbpEtDw/profile-displayphoto-scale_200_200/B4DZnZlKuPGgAY-/0/1760292024853?e=1773273600&v=beta&t=aFcQ6wBFUQgbQiYzYFe-SbpUSVuIxAmnzD6PAnfwbqQ" 
        alt="Profile Photo" width="150" style="border-radius: 50%; box-shadow: 0 0 25px rgba(64,224,208,0.7);"/>
 </p>
 
