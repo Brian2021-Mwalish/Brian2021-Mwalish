@@ -25,7 +25,7 @@
   <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="50">
     <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
           font-family="Poppins, sans-serif" font-size="22" fill="#00ffff" filter="url(#glow)">
-      Full-stack Developer | AI Enthusiast | UI/UX Designer | Problem Solver
+      Application Solutions Specialist | AI Enthusiast | UI/UX Designer | Problem Solver
       <animate attributeName="fill" values="#ff0080;#ff8c00;#40e0d0;#ff0080" dur="4s" repeatCount="indefinite"/>
     </text>
     <defs>
