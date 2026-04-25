@@ -5,7 +5,7 @@
 
 <!-- PROFILE PHOTO -->
 <br/>
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQGEZiINbpEtDw/profile-displayphoto-scale_200_200/B4DZnZlKuPGgAY-/0/1760292024853?e=1775692800&v=beta&t=mQnGcd8rQkY_FaG2HNos-ED7bWUsD10qvD_j0-Rtols"/>
+<img src="./images/banner.png"/>
 
 <br/><br/>
 
